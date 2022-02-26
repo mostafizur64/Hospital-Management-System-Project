@@ -1,0 +1,17 @@
+Hospital Mangement system Project==========
+1.Laravel Install
+2.jetStream Package setup
+3.userType field add and migrate database
+4.Multli Authentication system genaret
+                     =====BackendPart===========
+5.BackendPart===========Admin part thats mean admin tampleted setup
+6.Customization admin panel
+7.Doctor part (total crud system)
+8.Doctor Speciality add
+9.View Doctor Appointment  
+      ===============Frontend Part=======
+1.Fatch data in frontend to doctor table
+2.User Appointment table to store data to database 
+3.Add Appointment button to navbar add all appointment data fatch are here.
+
+
